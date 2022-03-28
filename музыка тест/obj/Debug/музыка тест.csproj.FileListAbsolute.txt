@@ -1,0 +1,122 @@
+C:\Users\User\source\repos\музыка тест\музыка тест\bin\Debug\музыка тест.exe.config
+C:\Users\User\source\repos\музыка тест\музыка тест\bin\Debug\музыка тест.exe
+C:\Users\User\source\repos\музыка тест\музыка тест\bin\Debug\музыка тест.pdb
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест.csprojAssemblyReference.cache
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\App.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.cache
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.lref
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест.g.resources
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка_тест.Properties.Resources.resources
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.GenerateResource.cache
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест.exe
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\музыка тест.pdb
+D:\save VISUAL\музыка тест\музыка тест\bin\Debug\музыка тест.exe.config
+D:\save VISUAL\музыка тест\музыка тест\bin\Debug\музыка тест.exe
+D:\save VISUAL\музыка тест\музыка тест\bin\Debug\музыка тест.pdb
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест.csprojAssemblyReference.cache
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\MainWindow.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\App.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.cache
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.lref
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\MainWindow.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест.g.resources
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка_тест.Properties.Resources.resources
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.GenerateResource.cache
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.CoreCompileInputs.cache
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест.exe
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\музыка тест.pdb
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\AddPlayList.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\AddPlayList.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\AddPlayList.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\AddPlayList.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Медиа Плейер.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Медиа Плейер.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Авторизация.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Бесплатная версия.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Платная версия.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Регестрация.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Авторизация.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Бесплатная версия.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Платная версия.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Регестрация.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Авторизация.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Бесплатная версия.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Изменение данных.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Медиа Плейер.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Платная версия.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Регестрация.g.cs
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Авторизация.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Бесплатная версия.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Изменение данных.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Медиа Плейер.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Платная версия.baml
+C:\Users\User\source\repos\музыка тест\музыка тест\obj\Debug\Регестрация.baml
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Изменение данных.g.cs
+D:\save VISUAL\музыка тест\музыка тест\obj\Debug\Изменение данных.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\bin\Debug\музыка тест.exe.config
+C:\Users\User\Desktop\музыка тест\музыка тест\bin\Debug\музыка тест.exe
+C:\Users\User\Desktop\музыка тест\музыка тест\bin\Debug\музыка тест.pdb
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест.csprojAssemblyReference.cache
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\AddPlayList.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Авторизация.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Бесплатная версия.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Изменение данных.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Медиа Плейер.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Платная версия.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Регестрация.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\App.g.cs
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.cache
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.lref
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\AddPlayList.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Авторизация.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Бесплатная версия.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Изменение данных.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Медиа Плейер.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Платная версия.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\Регестрация.baml
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест.g.resources
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка_тест.Properties.Resources.resources
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.GenerateResource.cache
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест.exe
+C:\Users\User\Desktop\музыка тест\музыка тест\obj\Debug\музыка тест.pdb
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.AssemblyReference.cache
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\AddPlayList.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\MainWindow.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Авторизация.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Бесплатная версия.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Изменение данных.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Платная версия.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Регестрация.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\App.g.cs
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.cache
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест_MarkupCompile.lref
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест.exe
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест.pdb
+D:\Курсовая программа\музыка тест\музыка тест\bin\Debug\музыка тест.exe.config
+D:\Курсовая программа\музыка тест\музыка тест\bin\Debug\музыка тест.exe
+D:\Курсовая программа\музыка тест\музыка тест\bin\Debug\музыка тест.pdb
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\AddPlayList.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\MainWindow.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Авторизация.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Бесплатная версия.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\ДобавлениеПлейлистаПользователя.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Изменение данных.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Платная версия.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\Регестрация.baml
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест.g.resources
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка_тест.Properties.Resources.resources
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.GenerateResource.cache
+D:\Курсовая программа\музыка тест\музыка тест\obj\Debug\музыка тест.csproj.CoreCompileInputs.cache

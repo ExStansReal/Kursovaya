@@ -1,0 +1,9 @@
+﻿<Application x:Class="музыка_тест.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:музыка_тест"
+             StartupUri="Авторизация.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

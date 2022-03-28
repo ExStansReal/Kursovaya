@@ -1,0 +1,36 @@
+﻿<Window x:Class="музыка_тест.Бесплатная_версия"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:музыка_тест"
+        mc:Ignorable="d"
+        Title="Обычная версия" Height="337" Width="846"  Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid Loaded="Grid_Loaded">
+        <Button Background="White" Content="Играть" HorizontalAlignment="Left" Margin="40,236,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click_1" Height="36"/>
+        <Button Background="White" Content="Приостановить" HorizontalAlignment="Left" Margin="119,236,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click_2" Height="36"/>
+        <Button Background="White" Content="Возобновить" HorizontalAlignment="Left" Margin="224,236,0,0" VerticalAlignment="Top" Width="94" Click="Button_Click_3" Height="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,279,0,0" TextWrapping="Wrap" Text="Громкость:" VerticalAlignment="Top" Width="74"/>
+        <Slider Maximum="300" x:Name="Progress" HorizontalAlignment="Left" Height="23" Margin="52,182,0,0"  VerticalAlignment="Top" Width="375" Grid.ColumnSpan="2" PreviewMouseLeftButtonDown="Progress_PreviewMouseLeftButtonDown" PreviewMouseLeftButtonUp="Progress_PreviewMouseLeftButtonUp" />
+        <Slider x:Name="gromkost" HorizontalAlignment="Left" Margin="119,279,0,0" VerticalAlignment="Top" Width="100" Maximum="1" Minimum="0" ValueChanged="gromkost_ValueChanged" />
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Плейлист" VerticalAlignment="Top" Height="18" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,63,0,0" TextWrapping="Wrap" Text="Песни" VerticalAlignment="Top" Height="18" Width="100"/>
+        <ComboBox  IsEditable="True" x:Name="playlists" HorizontalAlignment="Left" Margin="10,33,0,0" VerticalAlignment="Top" Width="184" SelectionChanged="playlists_SelectionChanged" />
+        <ComboBox  IsEditable="True" x:Name="musics" HorizontalAlignment="Left" Margin="10,84,0,0" VerticalAlignment="Top" Width="184" SelectionChanged="musics_SelectionChanged" ItemsSource="{Binding name}"/>
+        <Button  Background="White" Content="Добавить плейлист" HorizontalAlignment="Left" Margin="199,33,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_9"/>
+        <Button Background="White" Content="Добавить песню" HorizontalAlignment="Left" Margin="199,84,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_10"/>
+        <CheckBox x:Name="kiklMus" Content="Цикл песни" HorizontalAlignment="Left" Margin="326,35,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Checked="kiklMus_Checked"/>
+        <CheckBox x:Name="kikulList" Content="Цикл плейлиста" HorizontalAlignment="Left" Margin="326,72,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Checked="kikulList_Checked"/>
+        <CheckBox x:Name="randomMusic" Content="Рандом" HorizontalAlignment="Left" Margin="326,108,0,0" VerticalAlignment="Top"/>
+        <Button Background="White" Content="Удалить плейлист" HorizontalAlignment="Left" Margin="199,58,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_4"/>
+        <MediaElement x:Name="MediaPlayer" HorizontalAlignment="Left" Height="31" Margin="376,241,0,0" VerticalAlignment="Top" Width="51" LoadedBehavior="Manual" Grid.ColumnSpan="2" MediaOpened="MediaPlayer_MediaOpened" RenderTransformOrigin="0.362,-0.224"/>
+        <Border Margin="470,33,27,21" BorderThickness="2" BorderBrush="Black" CornerRadius="5">
+            <Image x:Name="reklama"  HorizontalAlignment="Left" Height="262" VerticalAlignment="Top" Width="357"  Stretch="Fill" Source="headphones_human_icon_187597.ico" />
+        </Border>
+
+        <Button Background="White" Content="Удалить песню" HorizontalAlignment="Left" Margin="199,109,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_11"/>
+        <Button Background="White" Content="Вернуться в авторизацию" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top" Width="153" Click="Button_Click_12" />
+        <Button Background="White" Content="Предыдущий" HorizontalAlignment="Left" Margin="10,139,0,0" VerticalAlignment="Top" Width="84" Click="Button_Click_14"/>
+        <Button Background="White" Content="Следующий" HorizontalAlignment="Left" Margin="99,139,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_13"/>
+    </Grid>
+</Window>
